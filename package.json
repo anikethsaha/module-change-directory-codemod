@@ -1,0 +1,16 @@
+{
+  "name": "module-dir-change-codemod",
+  "version": "0.1.0",
+  "description": "CodeMod to change the directory of your module import or require statement",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Codemod",
+    "jscodeshift",
+    "js-codemod",
+    "recast"
+  ],
+  "author": "Aniketh Saha",
+  "license": "ISC"
+}
